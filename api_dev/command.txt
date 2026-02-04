@@ -1,7 +1,0 @@
-to install the required packages
-=========================================
-pip install fastapi uvicorn sqlalchemy pydantic
-
-==> to run server
-
-python -m uvicorn main:app --reload
